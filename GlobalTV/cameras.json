@@ -1,0 +1,25 @@
+{
+  "cameras": [
+    {
+      "id": "cam1",
+      "name": "Los Angeles International Airport",
+      "embedUrl": "https://www.youtube.com/embed/UQaSS4_VAV4?autoplay=1&mute=1"
+    },
+    {
+      "id": "cam2",
+      "name": "Taiwan - Taoyuan International Airport ",
+      "embedUrl": "https://www.youtube.com/embed/91PfFoqvuUk?autoplay=1&mute=1"
+    },
+    {
+      "id": "cam3",
+      "name": "Prague - Vaclav Havel Airport",
+      "embedUrl": "https://www.youtube.com/embed/0jUGiYZKAMg?autoplay=1&mute=1"
+    },
+    {
+      "id": "cam4",
+      "name": "Tokyo – Haneda Airport",
+      "embedUrl": "https://www.youtube.com/embed/3w4zEyFamuA?autoplay=1&mute=1"
+    }
+  ]
+}
+
